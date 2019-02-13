@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "name": "spaguetti-js-code",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest ./tests"
+  },
+  "keywords": [],
+  "author": "Alguém que não quero ver na minha frente nem pintado de ouro!",
+  "devDependencies": {
+    "jest": "24.1.0",
+    "jquery": "^3.3.1"
+  }
+}
